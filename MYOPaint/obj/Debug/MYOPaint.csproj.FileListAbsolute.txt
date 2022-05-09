@@ -1,0 +1,10 @@
+H:\MYO Paint\MYOPaint\bin\Debug\WindowsFormsApp14.exe.config
+H:\MYO Paint\MYOPaint\bin\Debug\WindowsFormsApp14.exe
+H:\MYO Paint\MYOPaint\bin\Debug\WindowsFormsApp14.pdb
+H:\MYO Paint\MYOPaint\obj\Debug\MYOPaint.csproj.AssemblyReference.cache
+H:\MYO Paint\MYOPaint\obj\Debug\WindowsFormsApp14.Form1.resources
+H:\MYO Paint\MYOPaint\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+H:\MYO Paint\MYOPaint\obj\Debug\MYOPaint.csproj.GenerateResource.cache
+H:\MYO Paint\MYOPaint\obj\Debug\MYOPaint.csproj.CoreCompileInputs.cache
+H:\MYO Paint\MYOPaint\obj\Debug\WindowsFormsApp14.exe
+H:\MYO Paint\MYOPaint\obj\Debug\WindowsFormsApp14.pdb
